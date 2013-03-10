@@ -1,0 +1,25 @@
+{
+  "name": "node-zwave",
+  "version": "0.0.0",
+  "description": "Control z-wave devices with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clintberry/node-zwave.git"
+  },
+  "keywords": [
+    "z-wave",
+    "home",
+    "automation",
+    "home",
+    "serial",
+    "port"
+  ],
+  "author": "Clint Berry",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "54eb3808258d8b2da247407479cde7cf4c0bdfe1"
+}
